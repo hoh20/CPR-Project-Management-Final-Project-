@@ -13,7 +13,7 @@ Main project features:
 2.	Used Programs in Project: Github, Teams, Excel, OneDrive
 3.	Members: 6 people (programmer (4), tester (1), team leader (1)
    
-Positions held: Tester
+Positions held: Test Developer
 
 Activities performed: Comprehensive project managemnet;
 Making a project plan, modular functions, code review (Github, OneDrive), module test, etc 
