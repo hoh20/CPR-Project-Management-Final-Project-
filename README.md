@@ -3,7 +3,9 @@
 
 
 Name of assignment or project: Computer Principle for Programmer Final Project
+
 Month and Year: November - December 2023
+
 Instructor: Hesam Akbari
 
 Main project features: 
