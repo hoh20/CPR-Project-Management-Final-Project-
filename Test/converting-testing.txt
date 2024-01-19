@@ -1,0 +1,80 @@
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+abc
+Converted number is 0
+Type the int numeric string (q - to quit):
+1234
+Converted number is 1234
+Type the int numeric string (q - to quit):
+123abc
+Converted number is 123
+Type the int numeric string (q - to quit):
+1 2 3
+Converted number is 1
+Type the int numeric string (q - to quit):
+abc123
+Converted number is 0
+Type the int numeric string (q - to quit):
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+abc
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+1234567890
+Converted number is 1234567890.000000
+Type the double numeric string (q - to quit):
+123abc
+Converted number is 123.000000
+Type the double numeric string (q - to quit):
+1 2 3 4 5 6 7 8 9 0
+Converted number is 1.000000
+Type the double numeric string (q - to quit):
+abc1234567890
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Converted number is 123456789012345683488088937975330854681073930115416097741535586381843421724672.000000
+Type the double numeric string (q - to quit):
+Converted number is 123456789012345677877719597056.000000
+Type the double numeric string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+abc
+Converted number is 0
+Type the long numeric string (q - to quit):
+1234567890
+Converted number is 1234567890
+Type the long numeric string (q - to quit):
+123abc
+Converted number is 123
+Type the long numeric string (q - to quit):
+1 2 3
+Converted number is 1
+Type the long numeric string (q - to quit):
+abc123
+Converted number is 0
+Type the long numeric string (q - to quit):
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+Converted number is 2147483647
+Type the long numeric string (q - to quit):
+Converted number is 2147483647
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***
+
+

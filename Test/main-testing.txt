@@ -1,0 +1,98 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Indexing Strings Demo ***
+Type no empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q- to quit):
+q
+*** End of Copying Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
+*** Start of Searching Strings Demo ***
+Type the string (q to quit):
+q
+*** End of Searching Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokeni zing Words Demo ***
+Type a few words separated by space (q - to quit):
+q
+word #1 is 'q'
+*** End of rokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo***
+Type a few phrases separated by comma (q - to quit):
+q
+*** End of Tokenizing phrases Demo ***
+
+*** Start of Tokenizing Sentences Demo***
+Type a few sentences separated by dot(q - to quit):
+q
+*** End of Tokenizing Sentences Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+

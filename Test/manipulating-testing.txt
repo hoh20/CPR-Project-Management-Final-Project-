@@ -1,0 +1,107 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+123
+Type the 2nd string:
+456
+Concatenated string is '123456'
+Type the 1st string (q - to quit):
+@@@
+Type the 2nd string:
+###
+Concatenated string is '@@@###'
+Type the 1st string (q - to quit):
+aa
+Type the 2nd string:
+bb
+Concatenated string is 'aabb'
+Type the 1st string (q - to quit):
+12345678901234567890123456789012345678901234567890
+Type the 2nd string:
+1234567890123456789012345678901234567890
+Concatenated string is '123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890'
+Type the 1st string (q - to quit):
+
+Type the 2nd string:
+
+Concatenated string is ''
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit):
+1
+Type the 2nd string to compare:
+4
+'1' string is less than '4'
+Type the 1st string to compare (q - to quit):
+456
+Type the 2nd string to compare:
+125
+'456' string is greater than '125'
+Type the 1st string to compare (q - to quit):
+a
+Type the 2nd string to compare:
+b
+'a' string is less than 'b'
+Type the 1st string to compare (q - to quit):
+b
+Type the 2nd string to compare:
+a
+'b' string is greater than 'a'
+Type the 1st string to compare (q - to quit):
+0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{}<>?”;/\:
+Type the 2nd string to compare:
+'0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{' string is less than '<>?”;/\:'
+Type the 1st string to compare (q - to quit):
+
+Type the 2nd string to compare:
+
+'' string is equal to ''
+Type the 1st string to compare (q - to quit):
+
+Type the 2nd string to compare:
+2
+'' string is less than '2'
+Type the 1st string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
+
+
+
+
+*** Start of Searching Strings Demo ***
+Type the string (q to quit):
+antdsjdhfkjsf
+Type the substring:
+ant
+'ant' found at 0 position
+Type the string (q to quit):
+thisisatest
+Type the substring:
+s
+'s' found at 3 position
+Type the string (q to quit):
+helloworld
+Type the substring:
+d
+'d' found at 9 position
+Type the string (q to quit):
+0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{}<>?”;/\:
+Type the substring:
+Not found
+Type the string (q to quit):
+abc
+Type the substring:
+
+'' found at 0 position
+Type the string (q to quit):
+
+Type the substring:
+a
+Not found
+Type the string (q to quit):
+q
+*** End of Searching Strings Demo ***

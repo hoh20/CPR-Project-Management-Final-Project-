@@ -1,0 +1,111 @@
+*** Start of Indexing Strings Demo ***
+Type no empty string (q - to quit):
+abc
+Type the character position within the string:
+1
+The character found at 1 position is 'b'
+Type the character position within the string:
+2
+The character found at 2 position is 'c'
+Type no empty string (q - to quit):
+abc
+Type the character position within the string:
+3
+Too big... Position reduced to max. availbale
+The character found at 2 position is 'c'
+Type no empty string (q - to quit):
+abc
+Type the character position within the string:
+5
+Too big... Position reduced to max. availbale
+The character found at 2 position is 'c'
+Type no empty string (q - to quit):
+abc
+Type the character position within the string:
+one
+The character found at 0 position is 'a'
+Type no empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Indexing Strings Demo ***
+Type no empty string (q - to quit):
+0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{}<>?”;/\:
+Type the character position within the string:
+The character found at 0 position is '0'
+Type no empty string (q - to quit):
+Type the character position within the string:
+1
+Too big... Position reduced to max. availbale
+The character found at -1 position is ''
+Type no empty string (q - to quit):
+0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{}<>?”;/\:
+Type the character position within the string:
+The character found at 0 position is '0'
+Type no empty string (q - to quit):
+Type the character position within the string:
+0
+Too big... Position reduced to max. availbale
+The character found at -1 position is ''
+Type no empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+
+
+
+
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+abc
+The length of 'abc' is 3 characters
+Type a string (q - to quit):
+I am a boy!
+The length of 'I am a boy!' is 11 characters
+Type a string (q - to quit):
+123
+The length of '123' is 3 characters
+Type a string (q - to quit):
+
+The length of '' is 0 characters
+Type a string (q - to quit):
+0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{}<>?”;/\:
+The length of '0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{' is 78 characters
+Type a string (q - to quit):
+The length of '<>?”;/\:' is 9 characters
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+
+
+
+
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q- to quit):
+abc
+New destination string is 'abc'
+Destination string is reset to empty
+Type the source string (q- to quit):
+I am a boy!
+New destination string is 'I am a boy!'
+Destination string is reset to empty
+Type the source string (q- to quit):
+123
+New destination string is '123'
+Destination string is reset to empty
+Type the source string (q- to quit):
+
+New destination string is ''
+Destination string is reset to empty
+Type the source string (q- to quit):
+0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{}<>?”;/\:
+New destination string is '0123456789abcdefghijklmnoprsqtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=[]{'
+Destination string is reset to empty
+Type the source string (q- to quit):
+New destination string is '<>?”;/\:'
+Destination string is reset to empty
+Type the source string (q- to quit):
+q
+*** End of Copying Strings Demo ***

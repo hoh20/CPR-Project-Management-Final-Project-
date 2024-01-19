@@ -1,0 +1,73 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+Seneca College CPP CPR
+word #1 is 'Seneca'
+word #2 is 'College'
+word #3 is 'CPP'
+word #4 is 'CPR'
+Type a few words separated by space (q - to quit):
+Gonzaléz #Numeral $Dollar %Percentage 'Cotation "DoubleCoation
+word #1 is 'Gonzalez'
+word #2 is '#Numeral'
+word #3 is '$Dollar'
+word #4 is '%Percentage'
+word #5 is ''Cotation'
+word #6 is '"DoubleCoation'
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+DoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoation
+word #1 is 'DoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoation'
+Type a few words separated by space (q - to quit):
+q
+word #1 is 'q'
+*** End of Trokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo***
+Type a few phrases separated by comma (q - to quit):
+Seneca,College,CPP,CPR
+Phrase #1 is 'Seneca'
+Phrase #2 is 'College'
+Phrase #3 is 'CPP'
+Phrase #4 is 'CPR'
+Type a few phrases separated by comma (q - to quit):
+Gonzaléz,#Numeral,$Dollar,%Percentage,Cotation,"DoubleCoation
+Phrase #1 is 'Gonzalez'
+Phrase #2 is '#Numeral'
+Phrase #3 is '$Dollar'
+Phrase #4 is '%Percentage'
+Phrase #5 is 'Cotation'
+Phrase #6 is '"DoubleCoation'
+Type a few phrases separated by comma (q - to quit):
+
+Type a few phrases separated by comma (q - to quit):
+DoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoation
+Phrase #1 is 'DoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoation'
+Type a few phrases separated by comma (q - to quit):
+q
+*** End of Tokenizing phrases Demo ***
+
+*** Start of Tokenizing Sentences Demo***
+Type a few sentences separated by dot(q - to quit):
+Seneca.College.CPP.CPR
+Sentence #1 is 'Seneca'
+Sentence #2 is 'College'
+Sentence #3 is 'CPP'
+Sentence #4 is 'CPR'
+Type a few sentences separated by dot(q - to quit):
+Gonzaléz.#Numeral.$Dollar.%Percentage.'Cotation."DoubleCoation
+Sentence #1 is 'Gonzalez'
+Sentence #2 is '#Numeral'
+Sentence #3 is '$Dollar'
+Sentence #4 is '%Percentage'
+Sentence #5 is ''Cotation'
+Sentence #6 is '"DoubleCoation'
+Type a few sentences separated by dot(q - to quit):
+
+Type a few sentences separated by dot(q - to quit):
+DoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoation
+Sentence #1 is 'DoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoationDoubleCoation'
+Type a few sentences separated by dot(q - to quit):
+q
+*** End of Tokenizing Sentences Demo ***
+
